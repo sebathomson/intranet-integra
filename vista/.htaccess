@@ -1,0 +1,2 @@
+ErrorDocument 403 /taller/vista/error.php
+ErrorDocument 404 /taller/vista/error.php
